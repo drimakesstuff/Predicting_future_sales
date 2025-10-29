@@ -50,6 +50,7 @@ This project analyzes the **impact of different advertising channels (TV, Radio,
 
 ## Author
 
--Dri – Data Science Enthusiast | -Portfolio-ready projects
+- Dri – Data Science Enthusiast |
+- Portfolio-ready projects
 
 
