@@ -53,8 +53,3 @@ This project analyzes the **impact of different advertising channels (TV, Radio,
 -Dri – Data Science Enthusiast | -Portfolio-ready projects
 
 
----
-
-## License
-
--This project is open-source and available under the MIT License.
