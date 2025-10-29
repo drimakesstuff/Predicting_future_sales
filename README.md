@@ -1,4 +1,4 @@
-# AdImpact_Analysis
+# Sales_By_Ads
 
 ## Project Overview
 This project analyzes the **impact of different advertising channels (TV, Radio, Newspaper) on product sales** using real-world advertising spend data. The goal is to identify the most effective channels and provide **data-driven recommendations for marketing budget allocation**.
