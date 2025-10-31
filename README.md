@@ -46,11 +46,8 @@ This project analyzes the **impact of different advertising channels (TV, Radio,
 - Linear Regression  
 - Data Analysis & Visualization  
 
----
 
+---
 ## Author
 
-- Dri – Data Science Enthusiast |
-- Portfolio-ready projects
-
-
+Dri – BSc Data Science student
