@@ -45,7 +45,13 @@ This project analyzes the **impact of different advertising channels (TV, Radio,
 - Python (`pandas`, `scikit-learn`, `matplotlib`)  
 - Linear Regression  
 - Data Analysis & Visualization  
+---
 
+## Budget Allocation Recommendation:
+
+Based on the regression analysis of advertising channels, Radio and TV demonstrated the highest positive impact on sales per $1k spent, while Newspaper had negligible or negative influence. Therefore, it is recommended to increase the advertising budget for Radio and TV, allocating funds proportionally to their effectiveness.
+
+For example, if the total marketing budget is $100k, a larger share should go to Radio (the most effective channel), followed by TV, while minimizing or eliminating spending on Newspaper ads. This data-driven reallocation ensures maximum sales impact per dollar spent, improves ROI, and reduces wasted expenditure on low-performing channels.
 
 ---
 ## Author
